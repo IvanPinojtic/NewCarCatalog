@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\CarCatalog.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\CarCatalog.DAL.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\CarCatalog.DAL.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\CarCatalog.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\CarCatalog.DAL\bin\Debug\net5.0\CarCatalog.DAL.deps.json
+C:\Users\Ivan\source\repos\CarCatalog.DAL\bin\Debug\net5.0\CarCatalog.DAL.runtimeconfig.json
+C:\Users\Ivan\source\repos\CarCatalog.DAL\bin\Debug\net5.0\CarCatalog.DAL.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\CarCatalog.DAL\bin\Debug\net5.0\CarCatalog.DAL.dll
+C:\Users\Ivan\source\repos\CarCatalog.DAL\bin\Debug\net5.0\ref\CarCatalog.DAL.dll
+C:\Users\Ivan\source\repos\CarCatalog.DAL\bin\Debug\net5.0\CarCatalog.DAL.pdb
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\CarCatalog.DAL.dll
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\ref\CarCatalog.DAL.dll
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\CarCatalog.DAL.pdb
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\CarCatalog.DAL.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\CarCatalog.DAL\obj\Debug\net5.0\CarCatalog.DAL.csproj.AssemblyReference.cache
